@@ -1,0 +1,3 @@
+/run/media/matt/2TB/Code/CPP/gamedemo/dante/build/CMakeFiles/game.dir
+/run/media/matt/2TB/Code/CPP/gamedemo/dante/build/CMakeFiles/edit_cache.dir
+/run/media/matt/2TB/Code/CPP/gamedemo/dante/build/CMakeFiles/rebuild_cache.dir
