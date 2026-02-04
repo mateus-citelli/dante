@@ -1,1 +1,0 @@
-/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/game.dir/link.d CMakeFiles/game.dir/src/main.cpp.o CMakeFiles/game.dir/src/game.cpp.o CMakeFiles/game.dir/src/player.cpp.o CMakeFiles/game.dir/src/map.cpp.o CMakeFiles/game.dir/src/boss.cpp.o CMakeFiles/game.dir/src/room.cpp.o CMakeFiles/game.dir/src/collision.cpp.o -o game  -lsfml-graphics -lsfml-window -lsfml-system
