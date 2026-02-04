@@ -1,2 +1,2 @@
-# dante
-hyrule fantasy inspired game
+# Dante
+Hyrule Fantasy inspired game
